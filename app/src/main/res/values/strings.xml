@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practica8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_character_example">Thor</string>
+    <string name="name_meal_example">Receta</string>
+    <string name="imagen">imagen</string>
+    <string name="content_recipe">Descripción de la receta</string>
+    <string name="youtube_text">Enlace Youtube</string>
+    <string name="youtube_link">www.youtube.com</string>
+</resources>
